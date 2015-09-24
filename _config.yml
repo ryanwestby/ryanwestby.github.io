@@ -1,0 +1,95 @@
+# External gems
+gems:
+  - jekyll-sitemap
+
+# Site settings
+title: Ryan Westby | Software Developer
+subtitle: ""
+email: jrwestby13@gmail.com
+name: Ryan Westby
+description: > 
+
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://jryanwestby.github.io" # the base hostname & protocol for your site
+cover: "assets/header_image.jpg"
+logo: "assets/logo.png"
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
+
+# Archive settings (see https://github.com/jekyll/jekyll-archives/)
+# jekyll-archives: 
+  # enabled: 
+    # - categories
+    # - tags
+  # layout: 'archive'
+  # permalinks:
+    # category: '/category/:name/'
+    # tag: '/tag/:name/'
+
+# Disqus comments
+disqus_shortname: ryanwestby
+
+# Google analytics
+# ga_tracking_id: "UA-XXXX-1"
+
+# # Category descriptions (for archive pages)
+# descriptions:
+  # - cat: jekyll
+    # desc: "Posts describing Jekyll setup techniques."
+
+  # - cat: dummy
+    # desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+# Social icons and sharing options
+#
+# Social settings are used in two places:
+# * In the footer, as links to your personal profiles
+# * After each blog post for sharing widgets
+# 
+# Example:
+# 
+# social:
+#   - name: Twitter                         # Name of the service
+#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
+#     username: "@TheBenCentra"             # (User) Name to display in the footer link
+#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+#     desc: Follow me on Twitter            # Description to display as link title, etc
+#     share_url: http://twitter.com/share   # URL for sharing to the service (leave blank to not allow sharing)
+#     share_title: ?text=                   # Title parameter for sharing URL
+#     share_link: "&amp;url="               # Link parameter for sharing URL
+social:
+  - name: GitHub
+    icon: github
+    username: jryanwestby
+    url: https://github.com/jryanwestby
+    desc: See my projects at GitHub
+    share_url:
+    share_title:
+    share_link:
+
+  - name: LinkedIn
+    icon: linkedin
+    username: Ryan Westby
+    url: https://www.linkedin.com/pub/ryan-westby/76/689/1b0
+    desc: Connect with me on LinkedIn
+    share_url: //www.linkedin.com/shareArticle
+    share_title: ?mini=true
+    share_link: "&amp;url="
+
+# Social sharing protocols
+# These are for automatically generating sharing metadata for FB and Twitter
+# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
+# protocols:
+    # fb_image: "assets/logo.png"
+    # fb_image_width: 612
+    # fb_image_height: 605
+    # fb_image_type: "image/png"
+
+    # twitter_image: "assets/logo.png"
+
+    # os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
+    # os_rcs_type: "git"
+    # os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
