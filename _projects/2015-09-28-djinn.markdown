@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Djinn"
+date:   2015-09-28 08:43:59
+author: Ryan Westby
+categories: Big Ones:
+tags:	
+cover:  "assets/instacode.png"
+---
