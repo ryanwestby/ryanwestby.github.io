@@ -7,7 +7,7 @@ main_nav: false
 
 project: true
 project_description: "Space Invaders / Tetronimos Mashup written in Java using LWJGL"
-project_image: "assets/images/Djinn.gif"
+project_image: "assets/images/djinn.png"
 project_date: "Fall 2015"
 ---
 
@@ -33,7 +33,7 @@ During play, each tetronimo fills into a HashMap where the keys are the y coordi
 
 ### Future of the Project
 
-I'm looking forward to hosting the game online so that it can be playable on a web page. For now, here is a gif preview of the game:
+I'm looking forward to hosting the game online so that it can be playable on a web page. Stay tuned!
 
 <a href="{{ page.project_image | prepend: site.baseurl }}" data-lightbox="djinn" data-title="{{ page.project_description }}">
   <img src="{{ page.project_image | prepend: site.baseurl }}" title="{{ page.project_description }}">
