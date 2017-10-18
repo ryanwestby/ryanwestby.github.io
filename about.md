@@ -12,14 +12,14 @@ stacks, and on teams of all sorts of sizes. I am currently seeking new opportuni
 <p>Outside of coding, I'm into way more hobbies than time allows. 
 I love to climb, ski, and backpack. 
 I've recently found a love for guitar.
-I love to talk movies, books, television, board games, and video games. 
+I love to talk movies, books, television, and games. 
 Beyond that, I'm always down to learn about new subjects and interests.
 </p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>AngularJS, React, Ember, Backbone</li>
+	<li>JavaScript, AngularJS, React, Ember</li>
 	<li>Node, Express</li>
 	<li>Python, Django</li>
 	<li>Ruby, Rails</li>
@@ -28,6 +28,7 @@ Beyond that, I'm always down to learn about new subjects and interests.
 	<li>Responsive web design</li>
 	<li>SASS</li>
 	<li>Scrum, Agile</li>
+	<li>Version Control</li>
 	<li>Unit Testing, TDD, Continuous Integration</li>
 </ul>
 
