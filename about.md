@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Welcome!</p>
+<p>Hello!</p>
 
 <p>I'm a full-stack web developer currently living in Portland, OR. I have experience working with several different technology 
 stacks, and on teams of all sorts of sizes. I am currently seeking new opportunities, so feel free to contact me. I'd love to hear about your project!</p>
@@ -19,15 +19,16 @@ Beyond that, I'm always down to learn about new subjects and interests.
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>AngularJS, React, Ember</li>
+	<li>AngularJS, React, Ember, Backbone</li>
 	<li>Node, Express</li>
 	<li>Python, Django</li>
 	<li>Ruby, Rails</li>
 	<li>PostgreSQL</li>
 	<li>AWS (EC2, EB, S3, Lambda)</li>
-	<li>Responsive (Mobile First)</li>
-	<li>Scrum and Agile</li>
-	<li>TDD and Continuous Integration</li>
+	<li>Responsive web design</li>
+	<li>SASS</li>
+	<li>Scrum, Agile</li>
+	<li>Unit Testing, TDD, Continuous Integration</li>
 </ul>
 
 <h2>Projects</h2>
