@@ -21,14 +21,13 @@ On all the teams I've worked, I've had the opportunity to learn and work on the 
 </p>
 
 <ul class="skill-list">
-	<li>JavaScript: React, Ember, AngularJS, Mithril, Vanilla</li>
+	<li>JavaScript: React, Ember, Mithril, Vanilla</li>
   <li>Responsive web design, Bootstrap, Material, Flexbox, SASS</li>
 	<li>Node, Express, GraphQL, Postgraphile</li>
 	<li>Python: Django, Flask, OpenCV, Numpy</li>
-	<li>Ruby, Rails</li>
   <li>Testing: Unit, Integration, E2E, TDD</li>
-  <li>- JavaScript Testing: Mocha, Chai, Sinon</li>
-  <li>- Python Testing: Pytest, Unittest, Moto</li>
+  <li>JavaScript Testing: Mocha, Chai, Sinon</li>
+  <li>Python Testing: Pytest, Unittest, Moto</li>
 	<li>Databases: PostgreSQL, MySQL, DynamoDB</li>
 	<li>AWS: EC2, EB, S3, DynamoDB, RDS, Lambda, CloudFormation</li>
 	<li>Serverless, Up (Apex), AWS Lambda</li>
