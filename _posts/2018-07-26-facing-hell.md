@@ -19,13 +19,13 @@ A little context. In April of 2017, I got a message from a buddy of mine, Chris,
 
 So Chris, who had been climbing for less than 2 years, messaged me, who had also been climbing for less than 2 years, to let me know to cross my fingers and hope we get into Hell.
 
-We ended up winning a supplementary lottery in August, which is about 3 months after most people find out they got in. It also meant would have just 6 weeks to prepare for one of the most grueling and intense events that either of us have ever been through. 
+We ended up winning a supplementary lottery in August, about 3 months later than most people find out they’ve won entry. This meant we would have just 6 weeks to prepare for one of the most grueling and intense events that either of us have ever been through.
 
-Again, at this point, I was still very much a beginner climber. I still am, but I was then too. My climbing technique was still unrefined and I didn’t know anything about climbing training. Luckily I had got my belay cert earlier that year. An even bigger stroke of luck was meeting the guy who taught us how to belay.
+Again, at this point, I was still very much a beginner climber. I still am, but at that time even more so. My climbing technique was still unrefined and I didn’t know anything about climbing training. Luckily I had learned to belay earlier that year when I began taking an interest in sport climbing. And an even bigger stroke of luck was meeting the guy who taught us.
 
 ## Enter AntiGravity
 
-Juan Rodriguez, a Portland local and climber of ~20 years, just so happened to own a [climbing shop](https://antigravityequipment.com/), and had specialized knowledge in climbing technique and training programs to teach people how to send. He immediately put us on an endurance training program that had Chris and I in the gym  4 times a week, mercilessly and aggressively pumping out our arms ~4-6 hours per sesh. My girlfriend, Shan, also joined in on the fun, despite not getting in the comp, because, in her words, “you’re not going to learn how to crush without me.”
+Juan Rodriguez, Portlander and climber of ~20 years and business owner of a [gear shop](https://antigravityequipment.com/) at the local rock gym, had a specialized knowledge in technique and training programs teaching us newbies how to ‘send.  Juan was our instructor for an introductory belay course, and when the time came to prepare for 24HHH, we knew we would need help from someone like him if we had any chance at reaching our comp goals.  Juan gladly agreed to the challenge and, with maximum stoke, immediately put us on an endurance program that had Chris and I in the gym 4 times a week, mercilessly and aggressively pumping our arms ~4-6 hours per sesh.  My girlfriend, Shan, also joined in on the fun because despite the fact that she wouldn’t be competing, she told us “you’re not going to learn how to crush this hard without me.”
 
 ## Goals
 
@@ -35,9 +35,9 @@ What this goal actually meant was that we’d need to put up 4-5 routes each, ev
 
 ## Smith Rock
 
-After getting some solid practice in the gym, we decided to take our training outdoors to see what it’d be like in a more realistic setting, and also to get our first outdoor lead routes in! It didn’t go well. Smith Rock is stiff, the routes are about twice as tall as they would be at Horseshoe Canyon Ranch, and night climbing at Smith felt dangerous. Above all, we figured out that our transitions were shit.
+After getting some solid practice in the gym, we decided to take our training outdoors to see what it’d be like in a more realistic setting, and also to get our first outdoor lead routes in! It didn’t go well. Smith Rock is stiff, the routes are about twice as tall as they would be at Horseshoe Canyon Ranch, and our first time night climbing at Smith was unnerving to say the least. Above all, we figured out that our transitions were shit.
 
-Our goal for the competition meant that we not only needed to train for endurance, we needed a solid strategy for transitioning between routes and between partners. The rules stated we could each run up a route for a max of 2 laps, so at 14.4 minutes per route, to be able to get at least 10 minutes on a route, we needed to be able to transition in under 5 minutes. The transition included everything from finding the new route, tying in, safety checks, to cleaning, complaining, and eating.
+Our goal for the competition meant that we not only needed to train for endurance, we needed a solid strategy for transitioning between routes and between partners. The rules stated we could each run up a route for a max of 2 laps. That meant on average we’d only be able to spend 14.4 minutes each per route, so if we wanted to get about 10 minutes actually on the wall, we’d need to be able to complete our transitions in under 5 minutes.
 
 ## 24HHH for Idiots
 
@@ -56,14 +56,14 @@ Fast forward a half-dozen 5-hour training days to the week of the competition. T
 
 ![The ranch](/assets/images/24hhh/20170922_080443_HDR.jpg)
 
-The ranch was beautiful. You turn onto a gravely road and descend into a horseshoe-shaped canyon with rock cliffs on all sides of you, and a massive ranch with horses and goats running around in the middle of this sprawling green valley. 
+The ranch was beautiful. After turning onto a gravel road, you descend into a horseshoe-shaped canyon with rock cliffs on all sides of you, and a massive ranch with horses and goats running around in the middle of this sprawling green valley.
 
 The first morning on the ranch, we run into a guy Levi Harrell, who champions [Of All Nations Photography](https://www.facebook.com/OfAllNations/), and he offered to show us around the ranch. 
 
 ![Levi showing us The Greatest Show on Earth](/assets/images/24hhh/20170920_122820.jpg)
 _Levi showing us The Greatest Show on Earth_
 
-Meeting Levi was another stroke of luck, because he happened to be a local climber, an adventure guide, a photographer, and overall really cool dude. He showed us all around the ranch and the spots we would be able to climb, and later on in the week he even took us down to a nearby river to do some free solo climbing above a river!
+Meeting Levi was another stroke of luck, because he happened to be a local climber, an adventure guide, a photographer, and overall really cool dude. He showed us all around the ranch and the spots we would be able to climb, and later on in the week he even took us down to a nearby river for some deep-water soloing.
 
 ![Kyle's Landing](/assets/images/24hhh/20170920_172333.jpg)
 ![Kyle's Landing](/assets/images/24hhh/20170920_174143_HDR.jpg)
@@ -97,9 +97,9 @@ The first eight hours went by like a breeze It was pretty much fun and games as 
 
 Once dark settled, things got pretty grim. At about 10 hours in, I realized that I couldn’t do 5.8’s anymore. It would be 5.7’s and below from here on out, and the lines for 5.7’s quickly became too long for us to keep our initial pace up. 
 
-I don’t ever remember getting too tired. I was in a distinct focus state the entire time. But there would be decent lengths of time where we couldn’t do anything but listen to the bugs and wait for our next route, which quickly became frustrating. Our next 30 routes were slow moving, and took us until sunrise to complete. I had also sprained my ankle about a month before this, during training, and it was starting to flare up at this point.
+I don’t ever remember getting too tired. I was in a distinct focus state the entire time. But there would be stretches of time where we couldn’t do anything but listen to the bugs and wait for our next route, and it quickly became frustrating. Our next 30 routes were slow moving, and took us until sunrise to complete. I had also sprained my ankle about a month before this, during training, and it was starting to flare up at this point.
 
-Around 5am, around when daylight started showing again, we heard the strangest yelling. And looking back at the hill, we see dozens of goats sprinting up the hill. I assume they get let out in the morning to forage, but the strange screaming and sight of goats had to be the funniest thing to our delusional 5am selves.
+Around 5am, when daylight started showing again, we heard the strangest yelling. And looking back at the hill, we see dozens of goats sprinting up it. I assume they get let out in the morning to forage, but the strange screaming and sight of goats had to be the funniest thing to our delusional 5am selves.
 
 ## The Poop Scare
 
@@ -121,7 +121,7 @@ Hitting 100 was an absolute rush. We did it with about 20 minutes to spare. So w
 
 The afternoon was a daze. People were celebrating, toasting, laughing like crazy people. The power nap was magical. The awards ceremony was a delight to watch. Mark and Austin ended up taking first place in their category. We got our first tattoos, something we were only going to do if we accomplished our goal. We gorged on the pasta dinner. We took delightful cold showers. Our friends from Oklahoma showed up to celebrate with us. We danced the night away. 
 
-Reflecting on all that we accomplished, it’s still boggles my mind that we were able to do this. We only started climbing about two years ago, and only got our lead certification about two months before the competition. My first outdoor lead climb was about a month before the climb.
+Reflecting on all that we accomplished, it’s still boggles my mind that we were able to do this. We only started climbing about two years ago, and only learned to lead about two months before the competition. My first outdoor lead climb was about a month before the climb.
 
 All-in-all, the competition is about the dumbest thing I’ve ever put myself through. I remember thinking that there was no way I would ever do this again, and I also remember knowing that in just a few months I would be looking forward to doing it all over again the next year.
 
