@@ -1,7 +1,7 @@
 ---
 title: Facing Hell
 layout: post
-date: 2017-07-26 19:00
+date: 2018-07-26 19:00
 image: "/assets/images/24hhh/20170922_091051.jpg"
 headerImage: true
 tag:
@@ -110,9 +110,9 @@ Whatever went well for us in the first 20 hours didn’t go so well for us in th
 
 By yet another sheer stroke of luck, we ran into Mark Vabulas again! He witnessed our plight, and explained that we should jump on some of the nearby trad routes. They were completely open and 5.5 - 5.6 climbing. So we did, because we were totally in a state to make great decisions like climbing our first trad routes ever at the tail end of a 24 hour competition in hellish conditions. The climbing really was easy though, more like scrambling, but nonetheless falling on the slings we were using was not an option. 
 
-So here was my girlfriend, watching her best friends deleriously soloing 40 ft routes like absolute madmen. We were putting up laps at our best pace of the whole 24 hours. Luckily, none of the routes were even close to being outside of my skill level, except the 100th route. Mark was still watching us, Levi had found us at this point, as well as a few volunteers. The only 5.7 trad route that we were to do the whole competition would also be our 100th route. The last move being a committing mantel to a reachy jug, and we were done.
-
 # 100
+
+So here was my girlfriend, watching her best friends deleriously soloing 40 ft walls like absolute madmen. We were putting up laps at our best pace of the whole 24 hours. Luckily, none of the routes were even close to being outside of my skill level, except the 100th one. Mark was still there, Levi had found us at this point, and a few volunteers had gathered. The only 5.7 trad route that we were to do the whole competition would also be our 100th route. The last move being a committing mantel to a reachy jug, and we were done.
 
 Hitting 100 was an absolute rush. We did it with about 20 minutes to spare. So we ran up another route for good measure. 101 routes! Running back to camp to turn in our scorecards with just minutes to spare was the biggest joke of the whole experience. It was glorious. So many things had to align for us to make it to this point. We couldn’t believe it.
 
