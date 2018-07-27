@@ -18,7 +18,8 @@ On August 15, 2017, I found out I’d won the lottery to enter Hell.
 A little context. In April of 2017, I got a message from a buddy of mine, Chris, that he had entered us into a lottery to get into 24 Hours of Horseshoe Hell, a marathon 24 hour climbing competition. Climbers from all over the country converge on a little ranch in Jasper, Arkansas to compete and see who can climb the most routes in a 24 hour period. There’s a lottery to get in, since thousands of people wish to compete in a comp that can only support a few hundred climbers.
 
 So Chris, who had been climbing for less than 2 years, messaged me, who had also been climbing for less than 2 years, to let me know to cross my fingers and hope we get into Hell.
-Most people found out in May that they got in. But we happened to win a supplimentary lottery in August, which meant we would have 6 weeks to prepare for one of the most grueling and intense events that either of us have ever been through. 
+
+We ended up winning a supplementary lottery in August, which is about 3 months after most people find out they got in. It also meant would have just 6 weeks to prepare for one of the most grueling and intense events that either of us have ever been through. 
 
 Again, at this point, I was still very much a beginner climber. I still am, but I was then too. My climbing technique was still unrefined and I didn’t know anything about climbing training. Luckily I had got my belay cert earlier that year. An even bigger stroke of luck was meeting the guy who taught us how to belay.
 
