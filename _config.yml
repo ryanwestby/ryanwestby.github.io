@@ -56,9 +56,9 @@ email: ryan@westby.io
 authors:
     ryanwestby:
         name: Ryan Westby
-        bio: Software engie @nike, climber, writer. always learning, always aspiring
+        bio: Coder, climber, writer - Trying my best to be the best me I can be
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/profile2.jpg
         twitter: ryebreadwestby
 
 # do you want a larger site? change the option below
@@ -90,7 +90,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: false
+show-author: true
 
 # do you want some animations?
 animation: true
@@ -101,6 +101,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+#   - jekyll-paginate
 
 jekyll-mentions:
     base_url: https://github.com
