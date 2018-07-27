@@ -1,9 +1,9 @@
 # main text of home
 name: Ryan Westby
-# bio:
+bio: always learning, always aspiring
 
 # twitter summary info
-#description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://drive.google.com/file/d/0Bwg1QZrQxGUuX3UyY1BkLWJ3cVU/view?usp=sharing
+# resume: true
+# resume-external: true
+# resume-url: https://google.com/?q=my+resume
 
 url: https://ryanwestby.github.io
 # your url: http://USERNAME.github.io
@@ -31,24 +31,25 @@ analytics-google: 'UA-108287273-1'
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories:
+  categories: 
 #  [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-#twitter: mytwitter
+# facebook: myfacebook
+twitter: ryebreadwestby
 # google: mygoogle
 instagram: ryebreadwestby
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: ryan-westby-1b068976
 # youtube: myyoutube
 # spotify: myspotify
 github: ryanwestby
+# gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: ryan@westby.io
@@ -56,9 +57,10 @@ email: ryan@westby.io
 authors:
     ryanwestby:
         name: Ryan Westby
-        bio: Software developer driven by coffee
+        bio: Software engie @nike, climber, writer. always learning, always aspiring
         external-image: false
         picture: assets/images/profile.jpg
+        twitter: ryebreadwestby
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -70,11 +72,11 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-#blog: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -99,6 +101,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
