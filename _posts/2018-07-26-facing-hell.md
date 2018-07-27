@@ -125,7 +125,7 @@ Reflecting on all that we accomplished, it’s still boggles my mind that we wer
 
 All-in-all, the competition is about the dumbest thing I’ve ever put myself through. I remember thinking that there was no way I would ever do this again, and I also remember knowing that in just a few months I would be looking forward to doing it all over again the next year.
 
-Thanks Andy Chasteen and everyone else for putting on such a spectacle for us. I won’t forget it.
+Thanks Andy Chasteen, the owners of Horseshoe Canyon Ranch, the volunteers, and everyone else for putting on such a spectacle for us. I won’t forget it.
 
 Here's some extra pics:
 
