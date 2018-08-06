@@ -175,7 +175,7 @@ Thanks Andy Chasteen, the owners of Horseshoe Canyon Ranch, the volunteer crew, 
 Here's some extra pics:
 
 ![Stoked](/assets/images/24hhh/20170923_101413.jpg)
-_Stoked_
+_The Babies, stoked_
 
 ![Toasted fingers](/assets/images/24hhh/20170923_101352.jpg)
 _Toasted_
