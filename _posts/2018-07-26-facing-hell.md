@@ -23,7 +23,7 @@ So Chris, who had been climbing for less than two years, messaged me, who had al
 
 Three months later, we found out that we'd won a supplementary lottery to gain entry. The competition was in September, so this meant we would have just six weeks to prepare for one of the most grueling and intense events that either of us have ever been through.
 
-Again, at this point, I was still very much a beginner climber. I still am, but at that time even more so. My climbing technique was still unrefined and I didn’t know a thing about climbing training. Luckily I had learned to belay earlier that year when I began taking an interest in sport climbing. An even bigger stroke of luck was meeting the guy who taught us.
+Again, at this point, I was very much a beginner climber. I still am, but at that time even more so. My climbing technique was still unrefined and I didn’t know a thing about climbing training. Luckily I had learned to belay earlier that year when I began taking an interest in sport climbing. An even bigger stroke of luck was meeting the guy who taught us.
 
 ## AntiGravity Training
 
