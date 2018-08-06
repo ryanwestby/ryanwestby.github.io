@@ -6,7 +6,7 @@ layout: page
 
 <p>Hello!</p>
 
-<p>I'm a software engineer living in Portland, OR and I love the work that I do.</p>
+<p>I'm a software engineer living in Portland, Oregon and I love the work that I do.</p>
 
 <p>Outside of coding: climbing, guitar, and my rescue dog take up my free time.
 I love to talk movies, books, and games.
