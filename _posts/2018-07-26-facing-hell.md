@@ -79,6 +79,7 @@ Mark’s wiki had mentioned that if you show up to Hell and you don’t get a ha
 _Getting a haircut from Jackie and Andy!_
 
 ![Shan with her hair](/assets/images/24hhh/shan.jpg)
+_Shan, post-haircut_
 
 # The 24
 
@@ -108,7 +109,7 @@ What *did* work, was anything bite-sized and sugary. So our bags of candied nuts
 
 ## The Poop Scare
 
-So when you’re snacking all day and night, nature is bound for you, more than once even. Earlier in the night, we had run back to camp to use the restroom, where I had hoped we would be done with our business for the rest of the comp. Not so. In the morning, I remember lifting my leg up onto a big ledge and suddenly thinking, “Oh no.” I remember it being an emergency situation. Mid-run to the bathroom, I had to stop in the middle of the goddamn forest and take an emergency squat. I later found that Chris had to do the same exact thing, except he was accompanied by a goat.
+So when you’re snacking all day and night, nature is bound for you, more than once even. Earlier in the night, we had run back to camp to use the restroom, where I had hoped we would be done with our business for the rest of the comp. Not so. In the morning, I remember lifting my leg up onto a big ledge and suddenly thinking, “Oh no.” I remember it being an emergency situation. Hobbling to the bathroom in desperation more than once in a 24 hour period was less than desirable.
 
 ## Crunch Time
 
