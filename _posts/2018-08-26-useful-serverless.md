@@ -1,5 +1,5 @@
 ---
-title: A Serverless GraphQL API from PostgreSQL schema
+title: 5 Books I Read  
 layout: post
 date: 2018-08-25 20:00
 headerImage: false
@@ -167,7 +167,7 @@ let totalPostCount = response.data.authorTotalPostCount.nodes[0].count;
 
 ## Additional Reading
 
-PostGraphile: https://www.graphile.org/PostGraphile/ 
-Quick intro to PostGraphile (It is referred to as PostGraphQL here, this is what the project used to be named): https://www.youtube.com/watch?v=b3pwlCDy6vY
-PostGraphile example and tutorial: https://github.com/graphile/PostGraphile/blob/master/examples/forum/TUTORIAL.md
-Intro to GraphQL: https://graphql.org/learn/
+- PostGraphile: https://www.graphile.org/PostGraphile/ 
+- Quick intro to PostGraphile (It is referred to as PostGraphQL here, this is what the project used to be named): https://www.youtube.com/watch?v=b3pwlCDy6vY
+- PostGraphile example and tutorial: https://github.com/graphile/PostGraphile/blob/master/examples/forum/TUTORIAL.md
+- Intro to GraphQL: https://graphql.org/learn/
