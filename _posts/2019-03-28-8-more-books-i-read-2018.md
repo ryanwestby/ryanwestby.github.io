@@ -11,6 +11,10 @@ description: Some more of my favorite novels from my 2018 reads
 image: /assets/images/books/anathem_cover.jpg
 ---
 
+This is a follow up to my [other post](http://westby.io/5-books-ive-read-2018/) on books I read in 2018. The eight in this post and the five in my last post together comprise the books that stuck with me out of a total of 28 books I got through last year.
+
+These are the books that make me appreciate the act of reading, and make me want to share them with others. They’re the ones that I’ll keep extra copies of laying around in order to gift as presents whenever I get the chance.
+
 ## 1. A Canticle for Leibowitz by Walter M. Miller Jr.
 
 <img style="float: right;margin-left:20px;max-width:30%;" src="/assets/images/books/canticle_cover.png" />
