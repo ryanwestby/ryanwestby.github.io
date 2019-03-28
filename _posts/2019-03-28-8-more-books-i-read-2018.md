@@ -11,7 +11,7 @@ description: Some more of my favorite novels from my 2018 reads
 image: /assets/images/books/anathem_cover.jpg
 ---
 
-## 1. A Canticle for Leibowitz
+## 1. A Canticle for Leibowitz by Walter M. Miller Jr.
 
 <img style="float: right;margin-left:20px;max-width:30%;" src="/assets/images/books/canticle_cover.png" />
 A post-apocalyptic sci-fi set about 500 years after a nuclear war. There are three parts to the book, each set about 600 years after each other. 
@@ -20,7 +20,7 @@ There are some cool themes explored in this one, including science, mortality, t
 
 This is recommended for fans of post-apocalyptic fiction, Mad Max, or any of the Fallout video games.
 
-## 2. Deep Work
+## 2. Deep Work by Cal Newport
 
 <img style="float:left;margin-right:20px;max-width:20%;" src="/assets/images/books/deep_work_cover.jpg" />
 Deep Work is defined by author Cal Newport as: “Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.”
@@ -29,7 +29,7 @@ This one was very convincing and helped me realize what I need to do to achieve 
 
 I recommend this to anyone looking to make strides with their long-term goals or large projects. It's not a cure-all for procrastination or anything, but it makes a compelling argument for the value of working hard.
 
-## 3. A Higher Loyalty
+## 3. A Higher Loyalty by James Comey
 
 <img style="float: right;margin-left:20px;max-width:25%;" src="/assets/images/books/comey_cover.jpg" />
 Former FBI director James Comey writes a book about his life and what he has learned about leadership and ethics. 
@@ -40,16 +40,16 @@ He details interactions he had with several different leaders, including Italian
 
 If you’re interested in an honest and funny perspective of United States law and its justice system from someone that has devoted his life to it, then this is a great read. I'd also recommend it for those in or interested in leadership roles, looking for some insight from someone that has made an effort to become a good leader by taking notes and learning from his own superiors.
 
-## 4. The Big Short
+## 4. The Big Short by Michael Lewis
 
 <img style="float:left;margin-right:20px;max-width:20%;" src="/assets/images/books/big_short_cover.jpg" />
-A financial thriller by Michael Lewis that details the lead up to the US housing bubble of of the 2000’s. 
+A financial thriller that details the lead up to the US housing bubble of of the 2000’s. 
 
 I loved the characters in this book. It’s no wonder they got such big names to play them all in the movie, they’re larger than life. The different perspectives and story threads in this one offer up an absorbing and accessible view into the financial world and the crisis it created. 
 
 This is a book for those interested in how the financial crisis of 2008 happened. By the end I was perplexed by how the people responsible weren’t jailed for it.
 
-## 5. Anathem
+## 5. Anathem by Neal Stephenson
 
 <img style="float: right;margin-left:20px;max-width:20%;" src="/assets/images/books/anathem_cover.jpg" />
 A sci-fi book by Neal Stephenson that melds quantum mechanics and Platonic philosophy. 
@@ -58,14 +58,14 @@ One of the best sci-fi I have read. There are so many cool concepts explored, la
 
 I’d recommend this to anyone that likes some mystery to their sci-fi, as well as futurists and philosophy buffs.
 
-## 6. Into Thin Air
+## 6. Into Thin Air by Jon Krakauer
 
 <img style="float:left;margin-right:20px;max-width:18%;" src="/assets/images/books/krakauer_cover.jpg" />
 Jon Krakauer recounts his experience at the 1996 Mount Everest disaster, where eight climbers were killed and several others were stranded by a sudden storm. 
 
 A Mount Everest expedition is by itself an out of this world experience, and climbing accidents are already interesting to read about. But Krakauer injects some of the best adventure prose I’ve read into one of the most deadly Mount Everest disasters in history. I could not put this book down. If you’d like to be put into the front seat of a riveting tale of survival, this book is for you.
 
-## 7. Shoe Dog
+## 7. Shoe Dog by Phil Knight
 
 <img style="float: right;margin-left:20px;max-width:30%;" src="/assets/images/books/shoe_dog_cover.jpg" />
 Nike founder Phil Knight shares his story of the early days of Nike, and how it grew into the brand it is today. I originally picked this book up in order to get some history on the company that I just got hired at, but I was greeted with a riveting tale of challenges that Mr. Knight encountered throughout his journey.
@@ -74,7 +74,7 @@ I really resonated with the mindset that Mr. Knight presented in his memoir. He 
 
 I would recommend this one for entreprenuers, people that have a fighting spirit, and to those interested in the type of mindset required to found a company like Nike.
 
-## 8. Happiness Hypothesis
+## 8. Happiness Hypothesis by Jonathan Haidt
 
 <img style="float: right;margin-left:20px;max-width:25%;" src="/assets/images/books/haidt_cover.jpg" />
 The Happiness Hypothesis looks at many of the ideas of thinkers of the past such as Plato, Buddha, and Jesus, and examines them in the light of contemporary psychology research. He distills his findings into 10 lessons that we can apply to our lives, with a focus on virtue, happiness, fulfillment, and meaning in our lives. 
