@@ -246,7 +246,7 @@ While we certainly had some great expectations for this weekend, we still walked
 </div>
 <div class="mc-field-group">
 	<label for="mce-MMERGE6">Categories </label>
-	<input type="text" value="Books" name="MMERGE6" class="" id="mce-MMERGE6">
+	<input type="text" value="Travel" name="MMERGE6" class="" id="mce-MMERGE6">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
