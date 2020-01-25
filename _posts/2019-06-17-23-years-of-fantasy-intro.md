@@ -9,7 +9,7 @@ tag:
 category: blog
 author: ryanwestby
 description: The beginning of my 23 Years of Fantasy Read
-image: /assets/images/books/anathem_cover.jpg
+image: /assets/images/fantasy/eotw.jpg
 ---
 
 # Introduction
