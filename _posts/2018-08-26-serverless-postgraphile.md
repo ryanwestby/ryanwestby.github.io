@@ -1,5 +1,5 @@
 ---
-title: A Serverless GraphQL API from PostgreSQL schema
+title: Tech Post: A Serverless GraphQL API from PostgreSQL schema
 layout: post
 date: 2018-08-25 20:00
 headerImage: false

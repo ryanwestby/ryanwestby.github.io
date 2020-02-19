@@ -1,5 +1,5 @@
 ---
-title: 23 Years of Fantasy Read - Introduction
+title: Fantasy Review: Wheel of Time 1, 2, 3, Tigana, Good Omens, Small Gods
 layout: post
 date: 2019-06-17 06:00
 headerImage: false
@@ -14,7 +14,7 @@ description: The beginning of my 23 Years of Fantasy Read
 image: /assets/images/fantasy/eotw.jpg
 ---
 
-# Introduction
+# 23 Years of Fantasy - Introduction
 
 The years 1990 through 2013 were a defining time for the fantasy genre. I’ll go over what I mean by this later in this post, but first let me explain my reading habits and some context for these dates.
 
