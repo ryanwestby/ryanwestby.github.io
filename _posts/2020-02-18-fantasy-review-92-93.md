@@ -14,6 +14,10 @@ description: A review of Wheel of time Books 4 and 5, as well as Men at Arms by 
 image: /assets/images/fantasy/shadow_rising.jpg
 ---
 
+This post is a continuation of a [read](http://https://www.westby.io/23-years-of-fantasy-intro/) I started in 2019 where I decided to read a bunch of the major fantasy epics
+starting in the 1990's. Included are reviews for Books 4 and 5 of The Wheel of Time as well as Men at Arms, the 15th in
+the Discworld series. 
+
 # Book Four of The Wheel of Time: The Shadow Rising by Robert Jordan (1992)
 
 Spoiler Warning!
@@ -57,7 +61,7 @@ Some infighting goes on in the Aes Sedai world when a Red Ajah named Elaida take
 
 I have to admit that I lost track of all the Forsaken awhile back. There are a lot of them and they seem to just sort of pop in and out of events and are generally there to give the crew a hard time. Rand gets another cool fight with a Forsaken named Asmodean, but after three books culminating with a Forsaken fight scene, I was growing tired with them. Rand does something a little different with this one though and manages to capture him! This sets up the possibility that Asmodean can mentor Rand. Clever!
 
-The two are also fighting over control of keys to super powerful ancient sa'angreal items, the Choedan Kal, which have some pretty awesome imagery.
+The two are also fighting over control of keys to super powerful ancient sa'angreal items, the Choedan Kal, which have some pretty awesome imagery (pictured right).
 
 ## Overall Opinion:
 
@@ -141,3 +145,7 @@ How rad is this character? There are multiple scenes that contribute to his grea
 
 1. We find out Vimes has been spending half of his meager wages providing for the widows and children of dead Watchmen.
 2. Vimes is able to put the gonne down.
+
+# 23 Years of Fantasy, Part III
+
+The next part of this read will feature the year 1994, which includes another Wheel of Time novel and another Discworld novel in the Death series!
