@@ -1,5 +1,5 @@
 ---
-title: "[Fantasy Review] Men at Arms, Wheel of Time 4, Wheel of Time 5"
+title: "[Fantasy Review] Men at Arms, Wheel of Time 4 & 5"
 layout: post
 date: 2020-02-18 05:00
 headerImage: false
