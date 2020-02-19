@@ -14,9 +14,52 @@ description: A review of Wheel of time Books 4 and 5, as well as Men at Arms by 
 image: /assets/images/fantasy/shadow_rising.jpg
 ---
 
-This post is a continuation of a [read](https://www.westby.io/23-years-of-fantasy-intro/) I started in 2019 where I decided to read a bunch of the major fantasy epics
-starting in the 1990's. Included are reviews for Books 4 and 5 of The Wheel of Time as well as Men at Arms, the 15th in
-the Discworld series. 
+This post is a continuation of a [read](https://www.westby.io/23-years-of-fantasy-intro/) I started in 2019 where I decided to make my way through a bunch of the major fantasy epics
+that started in the 1990's. Included are reviews for Books 4 and 5 of The Wheel of Time as well as Men at Arms, the 15th in
+the Discworld series. Spoilers are marked.
+
+<img style="margin-left:auto;margin-right:auto;display:block;max-width:70%;" src="/assets/images/fantasy/men_at_arms.jpg" />
+
+# Men at Arms by Terry Pratchett
+
+No spoilers for this first section.
+
+The first Discworld book I read was Guards! Guards!, so I was pretty excited to finally return to these characters. Moreover, I feel like Pratchett was still feeling out what exactly he wanted Discworld to be back when he wrote Guards! Guards!, which was the 6th entry to the series. Now with Men at Arms, the 15th entry, I feel that Pratchett has a found a fine footing with the series and his characters.
+
+Pratchett manages to tackle integration, class, politics, and gun control in an effortlessly hilarious and engaging way throughout Men at Arms. The premise of the book is that there's a new reform to bring greater representation of diversity among the City Watch, so they bring on a troll, a dwarf, and a lady werewolf. It's established that everyone in the city is speceist in some way, and especially trolls vs dwarves, so we get a lot of thought-provoking situations from this. Another premise is that Captain Vimes is stepping down in order to marry the richest woman in the city, Lady Sybil, which offers some bits about rags to riches and humility. There's also a whirlwind of a whodunnit plot involving assassins, a Hitler dog, and even clowns at one point.
+
+I liked Guards! Guards! enough to commit to reading as many Discworld novels as possible, and I was thoroughly pleased with the continuation of the City Watch plot line from Guards! Guards! I really look forward to Discworld between all the other fantasy I'm reading. They go by quickly as Pratchett hits you with a whirlwind of jokes and dialogue and clever witticisms, it's very much the book form of those 1940s screwball comedies like His Girl Friday.
+
+Overall I can't recommend the City Watch novels enough.
+
+Here are some more specific things I enjoyed from this novel:
+
+**Spoiler warning from here on!**
+
+## Carrot:Superman::Vimes:Batman
+
+Pratchett essentially uses this entry to the City Watch to make it clear that he wants to set the stage for these different shades of "hero" in Carrot and Vimes. Carrot is the Superman of the group, whereas Vimes gets the edge. I think he achieves this exploration really well in this novel with these characters, with multiple compelling scenes that test one or both of Carrot and Vimes. That brings me to my next point to, which is:
+
+## Pratchett establishing the "Good Is Not Soft" trope
+
+"If you have to look along the shaft of an arrow from the wrong end, if a man has you entirely at his mercy, then hope like hell that man is an evil man. Because the evil like power, power over people, and they want to see you in fear. They want you to know you're going to die. So they'll talk. They'll gloat. They'll watch you squirm. They'll put off the moment of murder like another man will put off a good cigar. So hope like hell your captor is an evil man. A good man will kill you with hardly a word."
+
+Pratchett takes care to paint in some nuance for the type of hero that he wants Carrot to be with bits like the above paragraph. It's that certain depth that brings a character to life and glues you to the pages.
+
+## Detritus and Cuddy
+
+One of the best parts of the novel for me. Their relationship alone makes this worth reading.
+
+## Angua
+
+I enjoyed this character, but I didn't think Pratchett explored the dynamics surrounding her as much as he could have. I don't think we get her point of view until much later, at which point I think her character comes to life. But that's alright, as the characterization that does unfold is pretty fantastic and has me excited for the next City Watch books. Oh and I of course also loved all the bits around Carrot x Angua.
+
+## Vimes
+
+How rad is this character? There are multiple scenes that contribute to his greatness, to name a couple:
+
+1. We find out Vimes has been spending half of his meager wages providing for the widows and children of dead Watchmen.
+2. Vimes is able to put the gonne down.
 
 # Book Four of The Wheel of Time: The Shadow Rising by Robert Jordan (1992)
 
@@ -100,51 +143,6 @@ Meh, I think my favorite out of this crew is Nynaeve. She's funny, compelling, a
 ## Overall opinion
 
 I wasn't sure about this one. First of all, Perrin seems to have went on honeymoon since he and Faile were totally absent from this entry. Other than that, it does feels like a lot happened: Rand gets some new powers, Mat gets another power-up, the good guys lose a big gun, the bad guys lose a couple bad guys, and a bunch of other game pieces in the world get shuffled around a bit. But it's hard to know the real ramifications of all these events. I'm a little bored yet still compelled to stay in this world and continue on. I suppose this is the nature of epic fantasy.
-
-<br>
-
-<img style="margin-left:auto;margin-right:auto;display:block;max-width:70%;" src="/assets/images/fantasy/men_at_arms.jpg" />
-
-# Men at Arms by Terry Pratchett
-
-No spoilers for this first section.
-
-The first Discworld book I read was Guards! Guards!, so I was pretty excited to finally return to these characters. Moreover, I feel like Pratchett was still feeling out what exactly he wanted Discworld to be back when he wrote Guards! Guards!, which was the 6th entry to the series. Now with Men at Arms, the 15th entry, I feel that Pratchett has a found a fine footing with the series and his characters.
-
-Pratchett manages to tackle integration, class, politics, and gun control in an effortlessly hilarious and engaging way throughout Men at Arms. The premise of the book is that there's a new reform to bring greater representation of diversity among the City Watch, so they bring on a troll, a dwarf, and a lady werewolf. It's established that everyone in the city is speceist in some way, and especially trolls vs dwarves, so we get a lot of thought-provoking situations from this. Another premise is that Captain Vimes is stepping down in order to marry the richest woman in the city, Lady Sybil, which offers some bits about rags to riches and humility. There's also a whirlwind of a whodunnit plot involving assassins, a Hitler dog, and even clowns at one point.
-
-I liked Guards! Guards! enough to commit to reading as many Discworld novels as possible, and I was thoroughly pleased with the continuation of the City Watch plot line from Guards! Guards! I really look forward to Discworld between all the other fantasy I'm reading. They go by quickly as Pratchett hits you with a whirlwind of jokes and dialogue and clever witticisms, it's very much the book form of those 1940s screwball comedies like His Girl Friday.
-
-Overall I can't recommend the City Watch novels enough.
-
-Here are some more specific things I enjoyed from this novel:
-
-**Spoiler warning from here on!**
-
-## Carrot:Superman::Vimes:Batman
-
-Pratchett essentially uses this entry to the City Watch to make it clear that he wants to set the stage for these different shades of "hero" in Carrot and Vimes. Carrot is the Superman of the group, whereas Vimes gets the edge. I think he achieves this exploration really well in this novel with these characters, with multiple compelling scenes that test one or both of Carrot and Vimes. That brings me to my next point to, which is:
-
-## Pratchett establishing the "Good Is Not Soft" trope
-
-"If you have to look along the shaft of an arrow from the wrong end, if a man has you entirely at his mercy, then hope like hell that man is an evil man. Because the evil like power, power over people, and they want to see you in fear. They want you to know you're going to die. So they'll talk. They'll gloat. They'll watch you squirm. They'll put off the moment of murder like another man will put off a good cigar. So hope like hell your captor is an evil man. A good man will kill you with hardly a word."
-
-Pratchett takes care to paint in some nuance for the type of hero that he wants Carrot to be with bits like the above paragraph. It's that certain depth that brings a character to life and glues you to the pages.
-
-## Detritus and Cuddy
-
-One of the best parts of the novel for me. Their relationship alone makes this worth reading.
-
-## Angua
-
-I enjoyed this character, but I didn't think Pratchett explored the dynamics surrounding her as much as he could have. I don't think we get her point of view until much later, at which point I think her character comes to life. But that's alright, as the characterization that does unfold is pretty fantastic and has me excited for the next City Watch books. Oh and I of course also loved all the bits around Carrot x Angua.
-
-## Vimes
-
-How rad is this character? There are multiple scenes that contribute to his greatness, to name a couple:
-
-1. We find out Vimes has been spending half of his meager wages providing for the widows and children of dead Watchmen.
-2. Vimes is able to put the gonne down.
 
 # 23 Years of Fantasy, Part III
 
