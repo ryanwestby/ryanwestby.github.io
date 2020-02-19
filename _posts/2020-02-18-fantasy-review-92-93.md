@@ -1,5 +1,5 @@
 ---
-title: Fantasy Review: WoT 4, WoT 5, Men at Arms
+title: Fantasy Review - WoT 4, WoT 5, Men at Arms
 layout: post
 date: 2020-02-18 05:00
 headerImage: false

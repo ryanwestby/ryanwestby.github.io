@@ -1,5 +1,5 @@
 ---
-title: Fantasy Review: Wheel of Time 1, 2, 3, Tigana, Good Omens, Small Gods
+title: Fantasy Review - Wheel of Time 1, 2, 3, Tigana, Good Omens, Small Gods
 layout: post
 date: 2019-06-17 06:00
 headerImage: false

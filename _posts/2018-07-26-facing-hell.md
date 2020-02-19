@@ -1,5 +1,5 @@
 ---
-title: Trip Report: Facing Hell - 24 Hours of Horseshoe Hell, 2017
+title: Trip Report - Facing Hell - 24 Hours of Horseshoe Hell 2017
 layout: post
 date: 2018-07-26 19:00
 image: "/assets/images/24hhh/20170922_091051.jpg"
