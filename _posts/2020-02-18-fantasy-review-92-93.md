@@ -1,5 +1,5 @@
 ---
-title: Fantasy Review - WoT 4, WoT 5, Men at Arms
+title: "[Fantasy Review] Men at Arms, Wheel of Time 4, Wheel of Time 5"
 layout: post
 date: 2020-02-18 05:00
 headerImage: false
@@ -20,7 +20,7 @@ the Discworld series. Spoilers are marked.
 
 <img style="margin-left:auto;margin-right:auto;display:block;max-width:70%;" src="/assets/images/fantasy/men_at_arms.jpg" />
 
-# Men at Arms by Terry Pratchett
+# 1. Men at Arms by Terry Pratchett (1992)
 
 No spoilers for this first section.
 
@@ -61,7 +61,7 @@ How rad is this character? There are multiple scenes that contribute to his grea
 1. We find out Vimes has been spending half of his meager wages providing for the widows and children of dead Watchmen.
 2. Vimes is able to put the gonne down.
 
-# Book Four of The Wheel of Time: The Shadow Rising by Robert Jordan (1992)
+# 2. Book Four of The Wheel of Time: The Shadow Rising by Robert Jordan (1992)
 
 Spoiler Warning!
 
@@ -112,7 +112,7 @@ I really enjoyed this entry to the series. I wrote in my opinion of Book 3 that 
 
 <br>
 
-# Book Five of The Wheel of Time: The Fires of Heaven by Robert Jordan (1993)
+# 3. Book Five of The Wheel of Time: The Fires of Heaven by Robert Jordan (1993)
 
 Spoiler Warning!
 

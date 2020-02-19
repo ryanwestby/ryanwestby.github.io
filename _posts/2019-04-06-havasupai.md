@@ -1,5 +1,5 @@
 ---
-title: Trip Report - Havasupai and the Sublime
+title: "[Trip Report] Havasupai and the Sublime"
 layout: post
 date: 2019-04-06 10:00
 headerImage: false

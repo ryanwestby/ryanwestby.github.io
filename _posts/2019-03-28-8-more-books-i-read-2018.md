@@ -1,5 +1,5 @@
 ---
-title: Book Review - 8 More Books I Read in 2018 and Loved 
+title: "[Book Review] 8 More Books I Read in 2018 and Loved" 
 layout: post
 date: 2019-03-28 06:00
 headerImage: false
