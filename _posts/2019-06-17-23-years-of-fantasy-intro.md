@@ -6,6 +6,8 @@ headerImage: false
 tag:
 - books
 - fantasy
+- wheeloftime
+- discworld
 category: blog
 author: ryanwestby
 description: The beginning of my 23 Years of Fantasy Read
