@@ -14,7 +14,7 @@ description: A review of Wheel of time Books 4 and 5, as well as Men at Arms by 
 image: /assets/images/fantasy/shadow_rising.jpg
 ---
 
-This post is a continuation of a [read](http://https://www.westby.io/23-years-of-fantasy-intro/) I started in 2019 where I decided to read a bunch of the major fantasy epics
+This post is a continuation of a [read](https://www.westby.io/23-years-of-fantasy-intro/) I started in 2019 where I decided to read a bunch of the major fantasy epics
 starting in the 1990's. Included are reviews for Books 4 and 5 of The Wheel of Time as well as Men at Arms, the 15th in
 the Discworld series. 
 

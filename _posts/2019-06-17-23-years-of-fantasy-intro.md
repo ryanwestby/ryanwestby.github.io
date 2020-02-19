@@ -189,7 +189,8 @@ Other notes [spoilers]:
 
 ## 23 Years of Fantasy Read, Part II
 
-The next part of this read will feature the years 1992 - 1994, where Robert Jordan released three more Wheel of Time books, and Guy Gavriel Kay released A Song for Arbonne. Terry Pratchett also has another entry in his Discworld books about The City Watch, and another entry for his Death series. I’m super excited to read these and write about them, so stay tuned!
+The next part of this read will feature the years 1992 - 1993, where Robert Jordan released two more Wheel of Time books. Terry Pratchett also has another entry in his Discworld books about The City Watch. You can find my post about them here:
+[read](https://www.westby.io/fantasy-review-92-93/)
 
 
 
