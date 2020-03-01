@@ -2,7 +2,7 @@
 title: "[Trip Report] Siouxon Creek Backpacking"
 layout: post
 date: 2020-03-01 05:00
-headerImage: false
+headerImage: true
 tag:
 - hiking
 - travel
