@@ -12,6 +12,9 @@ description: A trip report for my backpacking trip through Siouxon Creek and Obs
 image: /assets/images/siouxon-creek/008.jpg
 ---
 
+# Siouxon Creek Hike
+<img style="display:block;margin-left:auto;margin-right:auto;max-width:100%;" src="/assets/images/siouxon-creek/map.jpg" />
+
 In June of 2019, Cedar and I went exploring in the Washington wilderness at a place called Siouxon Trail in the Gifford-Pinchot National Forest. The trail follows along the magical Siouxon Creek, passing by several waterfalls and some sublime camping spots. We connected the trail with the nearby trail to Observation Peak where we stayed another night before making the hike back out for a total of 27 miles and 5,131 ft elevation gain over three days. 
 
 We found some incredible old-growth forest, waterfalls, wild flowers, and solitude. The sights and sounds out here made it easy to just bask and be. It was isolated with no other people around, yet the company of ancient trees, the forest creatures, and my four-legged companion was intensely comforting.
@@ -57,3 +60,10 @@ I think my favorite part of the trip was how much I was able to bond with my dog
 It's a type of experience that I didn't know existed before Cedar arrived in my life, and I'm thankful for my opportunity to take part in the joy of it.
 
 I hope you enjoyed this trip report. Here are some links so that you can go explore this area for yourself:
+
+1. [Oregon Hikers - Siouxon Creek Hike](https://www.oregonhikers.org/field_guide/Siouxon_Creek_Hike)
+2. [Oregon Hikers - Observation Peak Hike](https://www.oregonhikers.org/field_guide/Observation_Peak_Hike)
+3. [AllTrails - Siouxon Trail](https://www.alltrails.com/trail/us/washington/siouxon-trail-siouxon-trailhead)
+4. [AllTrails - Observation Peak Trail](https://www.alltrails.com/trail/us/washington/observation-peak-trail)
+
+-- Ry
