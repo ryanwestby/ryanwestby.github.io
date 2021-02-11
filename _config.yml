@@ -1,6 +1,6 @@
 # main text of home
 name: Ryan Westby
-bio: always learning, always aspiring
+bio: to aspire
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -55,7 +55,7 @@ email: ryan@westby.io
 authors:
     ryanwestby:
         name: Ryan Westby
-        bio: Coder, climber, 21st century ghost
+        bio: Coder, climber, artist, 21st century ghost
         external-image: false
         picture: assets/images/profile.jpg
         twitter: ryebreadwestby
