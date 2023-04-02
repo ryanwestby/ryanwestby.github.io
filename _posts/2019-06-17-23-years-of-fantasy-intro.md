@@ -10,53 +10,16 @@ tag:
 - discworld
 category: blog
 author: ryanwestby
-description: The beginning of my 23 Years of Fantasy Read
+description: A selection of fantasy books I enjoyed
 image: /assets/images/fantasy/eotw.jpg
 ---
 
-# 23 Years of Fantasy - Introduction
-
-The years 1990 through 2013 were a defining time for the fantasy genre. I’ll go over what I mean by this later in this post, but first let me explain my reading habits and some context for these dates.
-
-My reading habits involve alternating between fantasy, sci-fi, nonfiction, and classic literature. For fantasy and sci-fi in particular, there are several currently popular series that are still waiting to be completed, the most obvious of which might be A Song of Ice and Fire. After starting several series like this, I grew tired of the waiting game, so I decided to compile and organize a list of major works in each of the genres in an effort to read some completed works and to also gain a nice context for the evolution of the genres. I ordered them by year and started from the beginning. This was a few years ago, and by now I’m at year 1990 for fantasy, and the mid-60’s for sci-fi.
-
-And while taking a look at my fantasy list, at the year 1990, I noticed that I’m right at the cusp of an interesting body of books. Several now-renowned fantasy authors began some of the most defining modern fantasy classics during this time frame. Some even completed their series! These dates are also significant because they comprise the years that all 14 books in **The Wheel of Time** series by Robert Jordan and Brandon Sanderson were released.
-
-Such an interesting wrapper for a reading list combined with a need to reintroduce into my life and binge on some fantasy worlds has resulted in me deciding to knock out the entire list, all in a row, in order from 1990 to 2013. 
-
-Let’s take a look at the list. (Now keep in mind that, even with all of these, I’m at well over 100 books, so I had to leave a lot out, and likely a lot of beloved works. I’ll come back to them someday though, rest assured.)
-
-1990 - 2005
-1. **Discworld** by Terry Pratchett - Out of the 41 novels in the Discworld series, 32 of them are released. I plan to read through the series about Death, City Watch, and a few other others.
-2. **Guy Gavriel Kay** releases many novels, including Tigana and The Lions of Al-Rassan.
-3. Robin Hobb begins **The Realm of the Elderlings** with Assassin’s Apprentice in 1995, and by 2013 manages to complete three trilogies and a tetralogy in this world for a total of 13 novels.
-4. George R.R. Martin releases A Game of Thrones in 1996, beginning **A Song of Ice and Fire**. By 2013 he will have released a total of five books in this series.
-5. **Neil Gaiman** writes many of his acclaimed novels, including Neverwhere, Stardust, American Gods, Coraline, and Good Omens (with Terry Pratchett).
-6. The **Harry Potter** series by J.K. Rowling is started in 1997 with The Philosopher’s Stone and completed by 2007 for a total of seven books.
-7. **Malazan Book of the Fallen** by Steven Erikson is begun in 1999 with Gardens of the Moon and concluded in 2011 for an epic series of ten books.
-
-2005 - 2013
-I separate these two time spans because of another round of newer authors that got their start in 2005 or later.
-1. Brandon Sanderson begins his **Cosmere** with Elantris and Mistborn in 2005 and 2006.
-2. **The First Law** trilogy is started by Joe Abercrombie in 2006 and completed by 2008. He would go on to release three more standalones in this world by 2012.
-3. Scott Lynch begins **The Gentlemen Bastard** series with The Lies of Locke Lamora in 2006.
-4. Patrick Rothfuss begins **The Kingkiller Chronicle** in 2006. 
-
-These are the series that comprise this read. Most of them were gathered from some of the top beloved fantasy book lists around the internet. Also, I have already read a couple of the series in the list like Harry Potter and A Song of Ice and Fire, so I won’t be re-reading those, but I will be adding reflections on them to this series, since I haven't written out my thoughts on them yet.
-
-My goal is to get through at least two books a month. I plan on writing a bit about each of the books, making a new blog post for every 2-4 years span. At this pace, and given the books I’ve already read, I’m thinking I’ll be done with the challenge by Autumn of 2021. 
-
-The Wheel of Time and Discworld are particularly exciting as a sort of bookend to the whole list. There is a novel from at least one of the series in just about every year in the timeframe, so they’ll serve as a sort of anchor as I continually come back to them. The series I’m most excited for and the one that is most propelling this binge is Malazan. My tastes trend towards grimdark, and given what I already know about Malazan, I think I'm going to like it.
-
-
-# 1990-1991
-
-Here are the my thoughts and reviews for the first seven books of this read. I will format these posts to have both a non-spoiler section and a spoiler section for each book overview. In the non-spoiler sections I’ll go over the basic premise of the book as well as some overall thoughts and whether I can recommend the book or not. In the spoiler sections I’ll go over more specific plot threads as well as my take on the themes and any interesting plot devices or other interesting mechanics.
+Here are the my thoughts and reviews for a selection of fantasy novels I recently read through.
 
 ## 1. Book One of The Wheel of Time: Eye of the World by Robert Jordan - 1990
 
 <img style="float: right;margin-left:20px;max-width:40%;" src="/assets/images/fantasy/eotw.jpg" />
-The first book on the list is The Eye of the World, Book One of the Wheel of Time series by Robert Jordan. This series will form the backbone of the 23 Years of Fantasy Read, as the 14 books of the series span the entire 23 years of the list, from 1990 to its conclusion in 2013.
+The first book on the list is The Eye of the World, Book One of the Wheel of Time series by Robert Jordan.
 
 Overview and opinion [non-spoilers]:
 
@@ -186,43 +149,3 @@ Other notes [spoilers]:
 3. And then, when Brutha dies, he finds Vorbis, huddled and cowering, all alone in his own desert. But then we get an amazing moment from Brutha when he takes Vorbis by the hand and they walk together beyond the desert.
 4. I also loved how Vorbis’ "superpower" or triumph was to change others to be more like him, yet in all their time together, Brutha never lost his morality. In fact, Brutha actually picked up some of Vorbis’ other traits that would eventually help him go on to be a great leader, like confidence and charisma.
 5. I'm excited to see how the religion of Brutha ends up doing in some of the Discworld novels that take place after this one! 
-
-## 23 Years of Fantasy Read, Part II
-
-The next part of this read will feature the years 1992 - 1993, where Robert Jordan released two more Wheel of Time books. Terry Pratchett also has another entry in his Discworld books about The City Watch. You can find my post about them here:
-[read](https://www.westby.io/fantasy-review-92-93/)
-
-
-
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://westby.us19.list-manage.com/subscribe/post?u=4ce1d2eb2422f24f44b2af88c&amp;id=bec4940a18" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Want me to let you know when I write again?</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-	<label for="mce-MMERGE6">Categories </label>
-	<input type="text" value="Books" name="MMERGE6" class="" id="mce-MMERGE6">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4ce1d2eb2422f24f44b2af88c_bec4940a18" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[6]='MMERGE6';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!--End mc_embed_signup-->
