@@ -12,5 +12,5 @@ If you want to test locally on your machine, do the following steps:
 
 1. Install Jekyll and Bundler.
 2. Run `bundle install`
-3. Then run `bundle exec jekyll serve`
+3. Then run `bundle exec jekyll serve --config _config.yml`
 4. Open it in your browser: `http://localhost:4000`
